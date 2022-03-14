@@ -42,16 +42,12 @@ Jan/2022 - Current: Stellantis(Outsourced through MSXI) ⚡
 April/2021 - Jan/2022: Terphane 🌱
 - Plastic Industry
 - IT Intern
-  - Tools: Python, RPA.
-
-Aug/2017 - April/2021: Voxar Labs
+  
+Aug/2017 - April/2021: Voxar Labs 🔭
 - Research Lab in Virtual and Augmented Reality
-- Robotic and Embedded system Research (Feb/2019-April/2021)
-  - Tools: Python, Tensorflow. 
+- Robotic and Embedded system Research (Feb/2019-April/2021) 
 - Software Developer Intern(Aug/2020 - Dec/2020)
-  - Tools: C#.
 - Scientific Initiation Student in Embedded Systems
-  - Tools: Arduino, C, PDL2, OpenCV, C++, Nvidia Jetson Nano.
 <!--
 **JGSNETO/JGSNETO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
