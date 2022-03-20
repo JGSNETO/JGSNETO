@@ -41,7 +41,7 @@ Jan/2022 - Current: Stellantis(Outsourced through MSXI) ⚡
 
 April/2021 - Jan/2022: Terphane 🌱
 - Plastic Industry
-- IT Intern
+- SW Developer Internship 
   
 Aug/2017 - April/2021: Voxar Labs 🔭
 - Research Lab in Virtual and Augmented Reality
