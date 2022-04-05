@@ -31,6 +31,7 @@ This repository will be used to share my research and projects. My main focus it
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title = "C++"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
+<code><img width="40px" src="https://www.google.com.br/urlsa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F836825174487177753%2F&psig=AOvVaw0WcpY0WaEA7iWLX_Y6sEVH&ust=1649288927788000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCPiqn5qO_vYCFQAAAAAdAAAAABAO" title = "FPGA"/></code>
 
 ### Professional Experience
 Jan/2022 - Current: Stellantis(Outsourced through MSXI) ⚡
