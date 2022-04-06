@@ -22,7 +22,7 @@ I am an admirer of technology and innovation.
 I have 23 years old and current located in Betim-MG/Brazil.
 This repository will be used to share my research and projects. My main focus it is in embedded systems.
 
-### 🖥️ Tecnologies e Tools: 
+### 🖥️ Tecnologies and Tools: 
 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
@@ -50,7 +50,42 @@ Aug/2017 - April/2021: Voxar Labs 🔭
 - Software Developer Intern(Aug/2020 - Dec/2020)
 - Scientific Initiation Student in Embedded Systems
 
-##
+### Educational background 
+- B.Sc Control and Automation Engineer at Federal University of Pernambuco
+
+### Certification and Licences
+- Scrum Fundamentals Certified(SFC) - SCRUMStudy
+- Six Sigma Yellow Belt - 6SigmaStudy
+- Python competency badge - LinkedIn
+- C++ competency badge - LinkedIn
+- OOP competency badge - LinkedIn
+
+### Extracurricular activities
+- Embedded Electronics Bootcamp From Bit to Deep Learning(On going)[16,5hrs] : Udemy(2022)
+- Web Developement(On going)[97hrs] : Udemy(2022)
+- Project Management with Agile & Scrum The definitive guide[15hrs] : Udemy(2022)
+- C++ Basic to Advanced[19,5hrs] : Udemy(2021) 
+- AWS Cloud Technical Essentials[16hrs] : Coursera (2021)
+- Python Basic to Advanced[63,5hrs] : Udemy(2022)
+- RPA Developer Foundation[34hrs] : UIPath Academy (2021)
+- PI System[29hrs] : OSIsoft (2021)
+- Basic Programming Comau Robots(PDL2)[20hrs] : Industry Robotic (2021)
+- Excel Basic to Advanced[11,5hrs] : Udemy
+- Introduction to Agile Scrum[3hrs] : Voitto (2020)
+- Introduction to Power BI[4hrs] : Voitto (2020)
+- Decisive Leadership[1hr] : Expertise (2020)
+- Statistical Process Control[4hrs] : Expertise (2020)
+- Introduction to Industry 4.0[2hrs] : Expertise (2020)
+- World Class Manufacturing[36hrs] : Expertise (2020)
+- Lean Six Sigma Yellow Belt[27hrs] : Expertise (2020)
+
+### Languages
+
+- Portuguese : Fluent
+- English : Advanced
+- Spanish : Basic
+- French : Basic
+
 <p align="center">
 <a href="https://github.com/JGSNETO">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JGSNETO&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
