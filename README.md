@@ -24,7 +24,6 @@ This repository will be used to share my research and projects. My main focus it
 
 ### 🖥️ Tecnologies and Tools: 
 
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "Python"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title = "C"/></code>
@@ -83,8 +82,6 @@ Aug/2017 - April/2021: Voxar Labs 🔭
 
 - Portuguese : Fluent
 - English : Advanced
-- Spanish : Basic
-- French : Basic
 
 <p align="center">
 <a href="https://github.com/JGSNETO">
