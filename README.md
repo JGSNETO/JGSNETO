@@ -61,7 +61,6 @@ Aug/2017 - April/2021: Voxar Labs 🔭
 
 ### Extracurricular activities
 - Embedded Electronics Bootcamp From Bit to Deep Learning(On going)[16,5hrs] : Udemy(2022)
-- Web Developement(On going)[97hrs] : Udemy(2022)
 - Project Management with Agile & Scrum The definitive guide[15hrs] : Udemy(2022)
 - C++ Basic to Advanced[19,5hrs] : Udemy(2021) 
 - AWS Cloud Technical Essentials[16hrs] : Coursera (2021)
