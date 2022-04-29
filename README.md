@@ -36,11 +36,6 @@ This repository will be used to share my research and projects. My main focus it
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title = "Arduino"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title = "VScode"/></code>
 
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-          
-          
-
 ### Professional Experience
 Jan/2022 - Current: Stellantis(Outsourced through MSXI) ⚡
 - Automotive Industry
