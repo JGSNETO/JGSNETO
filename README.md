@@ -8,10 +8,19 @@
 <div dsplay="inline-block">
  
  <h1 align="left">José Gomes</h1>
-  <a href="https://www.linkedin.com/in/jeniffer-bittencourt">
+  <a href="https://www.linkedin.com/in/jos%C3%A9-gomes-23b9a3170/">
     <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
+
+<div dsplay="inline-block">
+ 
+ <h1 align="left">José Gomes</h1>
+  <a href="https://www.hackerrank.com/jgsnto_sd">
+    <img width="80px" src="https://wikiimg.tojsiabtv.com/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="Hacker Hank" style="vertical-align:top;">
+  </a>
+</div>
+
 
 </br>
 </br>
