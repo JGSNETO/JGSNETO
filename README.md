@@ -9,7 +9,7 @@
  
  <h1 align="left">José Gomes</h1>
   <a href="https://www.linkedin.com/in/jos%C3%A9-gomes-23b9a3170/">
-    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+    <img width="60px" src="https://t.ctcdn.com.br/09Y6BbLFxNn7XGCYRGzEI0p0oy8=/400x400/smart/filters:format(webp)/i490027.jpeg" alt="linkedin" style="vertical-align:top;">
   </a>
  <a href="https://www.hackerrank.com/jgsnto_sd">
     <img width="60px" src="https://wikiimg.tojsiabtv.com/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="Hacker Hank" style="vertical-align:top;">
@@ -20,6 +20,7 @@
 </div>
 </br>
 </br>
+
 ## Hello, all!!
 
 I am an admirer of technology and innovation.
