@@ -14,10 +14,12 @@
  <a href="https://www.hackerrank.com/jgsnto_sd">
     <img width="60px" src="https://wikiimg.tojsiabtv.com/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="Hacker Hank" style="vertical-align:top;">
   </a>
+  <a href="https://www.hackerrank.com/jgsnto_sd">
+    <img width="60px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--pcSkTMZL--/c_limit,f_auto,fl_progressive,q_80,w_190/https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" alt="Dev.to" style="vertical-align:top;">
+  </a>
 </div>
 </br>
 </br>
-
 ## Hello, all!!
 
 I am an admirer of technology and innovation.
