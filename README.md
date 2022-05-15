@@ -65,8 +65,12 @@ Aug/2017 - April/2021: Voxar Labs 🔭
 - C++ competency badge - LinkedIn
 - OOP competency badge - LinkedIn
 
-### Extracurricular activities
+### Bootcamps
 - Embedded Electronics Bootcamp From Bit to Deep Learning(On going)[16,5hrs] : Udemy(2022)
+  - VHDL; Arduino; IoT; MQQT; NodeRed; RTOS; Raspberry PI; Python; Neural Network.
+- TQI Fullstack Developer(On going)[125hrs] : Digital Innovation One
+  - JS, Java, Git, HTML, React, SQL; Spring Framework.
+### Extracurricular activities
 - Project Management with Agile & Scrum The definitive guide[15hrs] : Udemy(2022)
 - C++ Basic to Advanced[19,5hrs] : Udemy(2021) 
 - AWS Cloud Technical Essentials[16hrs] : Coursera (2021)
