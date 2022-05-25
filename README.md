@@ -59,7 +59,7 @@ Aug/2017 - April/2021: Voxar Labs 🔭
 - Scientific Initiation Student in Embedded Systems
 
 ### Educational background 
-- B.Sc Control and Automation Engineer at Federal University of Pernambuco
+- B.Sc Control and Automation Engineer at Federal University of Pernambuco [2016-2022]
 
 ### Certification and Licences
 - Scrum Fundamentals Certified(SFC) - SCRUMStudy
