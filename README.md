@@ -41,25 +41,25 @@ This repository will be used to share my research and projects. My main focus it
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title = "Arduino"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title = "VScode"/></code>
 
-### Professional Experience
-Jan/2022 - Current: Stellantis(Outsourced through MSXI) ⚡
-- Automotive Industry
+### Professional Experience 💻
+Jan/2022 - Current: Stellantis(Outsourced through MSXI) 
+- Automotive Industry 🚗
 - Product Engineer Analyst JR - Electrical and Electronic Systems
 - Located at Cybersecurity team
 - Full time job
 
-April/2021 - Jan/2022: Terphane 🌱
+April/2021 - Jan/2022: Terphane 
 - Plastic Industry
 - SW Developer Internship 
   
-Aug/2017 - April/2021: Voxar Labs 🔭
+Aug/2017 - April/2021: Voxar Labs 
 - Research Lab in Virtual and Augmented Reality
 - Robotic and Embedded system Research (Feb/2019-April/2021) 
 - Software Developer Intern(Aug/2020 - Dec/2020)
 - Scientific Initiation Student in Embedded Systems
 
 ### Educational background 
-- B.Sc Control and Automation Engineer at Federal University of Pernambuco [2016-2022]
+- B.Sc Control and Automation Engineer at Federal University of Pernambuco [2016-2021] 🎓
 
 ### Certification and Licences
 - Scrum Fundamentals Certified(SFC) - SCRUMStudy
