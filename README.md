@@ -58,22 +58,22 @@ Aug/2017 - April/2021: Voxar Labs
 - Software Developer Intern(Aug/2020 - Dec/2020)
 - Scientific Initiation Student in Embedded Systems
 
-### Educational background 
-- B.Sc Control and Automation Engineer at Federal University of Pernambuco [2016-2021] 🎓
+### Educational background 🎓
+- B.Sc Control and Automation Engineer at Federal University of Pernambuco [2016-2021] 
 
-### Certification and Licences
+### Certification and Licences 📑
 - Scrum Fundamentals Certified(SFC) - SCRUMStudy
 - Six Sigma Yellow Belt - 6SigmaStudy
 - Python competency badge - LinkedIn
 - C++ competency badge - LinkedIn
 - OOP competency badge - LinkedIn
 
-### Bootcamps
+### Bootcamps 📘
 - Embedded Electronics Bootcamp From Bit to Deep Learning(On going)[16,5hrs] : Udemy(2022) ⚡
   - VHDL; Arduino; IoT; MQQT; NodeRed; RTOS; Raspberry PI; Python; Neural Network.
 - TQI Fullstack Developer(On going)[125hrs] : Digital Innovation One(2022) ⚡
   - JS, Java, Git, HTML, React, SQL; Spring Framework.
-### Extracurricular activities
+### Extracurricular activities 📔
 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning(On going)[19hrs] : Deeplearning.ai(2022) ⚡
 - Project Management with Agile & Scrum The definitive guide[15hrs] : Udemy(2022)
 - C++ Basic to Advanced[19,5hrs] : Udemy(2021) 
@@ -91,15 +91,15 @@ Aug/2017 - April/2021: Voxar Labs
 - World Class Manufacturing[36hrs] : Expertise (2020)
 - Lean Six Sigma Yellow Belt[27hrs] : Expertise (2020)
 
-### Scientific Contributions
-- Ginput: a tool for fast hi-fi prototyping of gestural interactions in virtual reality(2º Author) : IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct)
-- Analyzing embedded pose estimation solutions for human behaviour understanding(1º Author) : Symposium on Virtual and Augmented Reality(SVR)
-- Comparison of RGB-D sensors for 3D reconstruction(1º Author) : Symposium on Virtual and Augmented Reality(SVR)
-- An EMG-Based Virtual Reality Application for Motor Rehabilitation(2º Author) : Symposium on Virtual and Augmented Reality(SVR)
-- Analysis and Comparison of Robotics 3D Simulators(2º Author) : Symposium on Virtual and Augmented Reality(SVR)
-- Control for a Robotic Industrial Arm through a miniature (1º Author) : Congresso Brasileiro de Automática(CBA)
-- Miniature robotic arm control applied to Motor Rehabilitation (1º Author) : Congresso Brasileiro de Engenharia Biomédica(CBEB)
-- Assistive handling technology for people with reduced mobility (2º Author) : Congresso Brasileiro de Engenharia Biomédica(CBEB)
+### Scientific Contributions 📚
+- Ginput: a tool for fast hi-fi prototyping of gestural interactions in virtual reality(2º Author) : IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct) 🥈
+- Analyzing embedded pose estimation solutions for human behaviour understanding(1º Author) : Symposium on Virtual and Augmented Reality(SVR) 🥇
+- Comparison of RGB-D sensors for 3D reconstruction(1º Author) : Symposium on Virtual and Augmented Reality(SVR) 🥇
+- An EMG-Based Virtual Reality Application for Motor Rehabilitation(2º Author) : Symposium on Virtual and Augmented Reality(SVR) 🥈
+- Analysis and Comparison of Robotics 3D Simulators(2º Author) : Symposium on Virtual and Augmented Reality(SVR) 🥈
+- Control for a Robotic Industrial Arm through a miniature (1º Author) : Congresso Brasileiro de Automática(CBA) 🥇
+- Miniature robotic arm control applied to Motor Rehabilitation (1º Author) : Congresso Brasileiro de Engenharia Biomédica(CBEB) 🥇
+- Assistive handling technology for people with reduced mobility (2º Author) : Congresso Brasileiro de Engenharia Biomédica(CBEB) 🥈
 
 ### Languages
 
