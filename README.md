@@ -91,6 +91,16 @@ Aug/2017 - April/2021: Voxar Labs 🔭
 - World Class Manufacturing[36hrs] : Expertise (2020)
 - Lean Six Sigma Yellow Belt[27hrs] : Expertise (2020)
 
+### Scientific Contributions
+- Ginput: a tool for fast hi-fi prototyping of gestural interactions in virtual reality(2º Author) : IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct)
+- Analyzing embedded pose estimation solutions for human behaviour understanding(1º Author) : Symposium on Virtual and Augmented Reality(SVR)
+- Comparison of RGB-D sensors for 3D reconstruction(1º Author) : Symposium on Virtual and Augmented Reality(SVR)
+- An EMG-Based Virtual Reality Application for Motor Rehabilitation(2º Author) : Symposium on Virtual and Augmented Reality(SVR)
+- Analysis and Comparison of Robotics 3D Simulators(2º Author) : Symposium on Virtual and Augmented Reality(SVR)
+- Control for a Robotic Industrial Arm through a miniature (1º Author) : Congresso Brasileiro de Automática(CBA)
+- Miniature robotic arm control applied to Motor Rehabilitation (1º Author) : Congresso Brasileiro de Engenharia Biomédica(CBEB)
+- Assistive handling technology for people with reduced mobility (2º Author) : Congresso Brasileiro de Engenharia Biomédica(CBEB)
+
 ### Languages
 
 - Portuguese : Fluent
