@@ -74,7 +74,8 @@ Aug/2017 - April/2021: Voxar Labs
 - TQI Fullstack Developer(On going)[125hrs] : Digital Innovation One(2022) ⚡
   - JS, Java, Git, HTML, React, SQL; Spring Framework.
 ### Extracurricular activities 📔
-- Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning(On going)[19hrs] : Deeplearning.ai(2022) ⚡
+- Convolutional Neural Networks (On Going)[18 hrs] : Deeplearning.ai(2022) ⚡
+- Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning[19hrs] : Deeplearning.ai(2022) 
 - Project Management with Agile & Scrum The definitive guide[15hrs] : Udemy(2022)
 - C++ Basic to Advanced[19,5hrs] : Udemy(2021) 
 - AWS Cloud Technical Essentials[16hrs] : Coursera (2021)
