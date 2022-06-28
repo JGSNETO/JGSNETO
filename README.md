@@ -72,8 +72,6 @@ Aug/2017 - April/2021: Voxar Labs
 ### Bootcamps 📘
 - Embedded Electronics Bootcamp From Bit to Deep Learning(On going)[16,5hrs] : Udemy(2022) ⚡
   - VHDL; Arduino; IoT; MQQT; NodeRed; RTOS; Raspberry PI; Python; Neural Network.
-- TQI Fullstack Developer(On going)[125hrs] : Digital Innovation One(2022) ⚡
-  - JS, Java, Git, HTML, React, SQL; Spring Framework.
 ### Extracurricular activities 📔
 - Convolutional Neural Networks [20 hrs] : Deeplearning.ai(2022) 
 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning[20hrs] : Deeplearning.ai(2022) 
