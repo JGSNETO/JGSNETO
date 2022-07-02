@@ -70,15 +70,16 @@ Aug/2017 - April/2021: Voxar Labs
 - OOP competency badge - LinkedIn
 
 ### Bootcamps 📘
-- Embedded Electronics Bootcamp From Bit to Deep Learning(On going)[16,5hrs] : Udemy(2022) ⚡
+- Embedded Electronics Bootcamp From Bit to Deep Learning[16,5hrs] : Udemy(2022) 
   - VHDL; Arduino; IoT; MQQT; NodeRed; RTOS; Raspberry PI; Python; Neural Network.
 ### Extracurricular activities 📔
+- Master C++ (on going)[12 hrs] : LinkedIn Learning(2022)
 - Convolutional Neural Networks [20 hrs] : Deeplearning.ai(2022) 
 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning[20hrs] : Deeplearning.ai(2022) 
 - Project Management with Agile & Scrum The definitive guide[15hrs] : Udemy(2022)
+- Python Basic to Advanced[63,5hrs] : Udemy(2022)
 - C++ Basic to Advanced[19,5hrs] : Udemy(2021) 
 - AWS Cloud Technical Essentials[16hrs] : Coursera (2021)
-- Python Basic to Advanced[63,5hrs] : Udemy(2022)
 - RPA Developer Foundation[34hrs] : UIPath Academy (2021)
 - PI System[29hrs] : OSIsoft (2021)
 - Basic Programming Comau Robots(PDL2)[20hrs] : Industry Robotic (2021)
