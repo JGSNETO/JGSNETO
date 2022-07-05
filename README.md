@@ -62,12 +62,13 @@ Aug/2017 - April/2021: Voxar Labs
 ### Educational background 🎓
 - B.Sc Control and Automation Engineer at Federal University of Pernambuco [2016-2021] 
 
-### Certification and Licences 📑
+### Certification and Licenses 📑
 - Scrum Fundamentals Certified(SFC) - SCRUMStudy
 - Six Sigma Yellow Belt - 6SigmaStudy
 - Python competency badge - LinkedIn
 - C++ competency badge - LinkedIn
 - OOP competency badge - LinkedIn
+- Agile Methodologies - LinkedIn
 
 ### Bootcamps 📘
 - Embedded Electronics Bootcamp From Bit to Deep Learning[16,5hrs] : Udemy(2022) 
