@@ -74,7 +74,10 @@ Aug/2017 - April/2021: Voxar Labs
 - Embedded Electronics Bootcamp From Bit to Deep Learning[16,5hrs] : Udemy(2022) 
   - VHDL; Arduino; IoT; MQQT; NodeRed; RTOS; Raspberry PI; Python; Neural Network.
 ### Extracurricular activities 📔
-- Master C++ (on going)[12 hrs] : LinkedIn Learning(2022)
+- Advanced C programming: Integration C and Assembly Language [1 hr] : LinkedIn Learning(2022)
+- C++ Best pratices for developers 
+- Master C++ [12 hrs] : LinkedIn Learning(2022)
+  - C++ Advanced topics, TDD, C++ Design Pattern: Creational;  Concurrent and Parallel programming 
 - Convolutional Neural Networks [20 hrs] : Deeplearning.ai(2022) 
 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning[20hrs] : Deeplearning.ai(2022) 
 - Project Management with Agile & Scrum The definitive guide[15hrs] : Udemy(2022)
