@@ -65,6 +65,9 @@ Aug/2017 - April/2021: Voxar Labs
 - Six Sigma Yellow Belt - 6SigmaStudy
 - Python competency badge - LinkedIn
 - C++ competency badge - LinkedIn
+- C competency badge - LinkedIn
+- C++ golden badge - HackerRank
+- C golden badge - HackerRank
 - OOP competency badge - LinkedIn
 - Agile Methodologies - LinkedIn
 
