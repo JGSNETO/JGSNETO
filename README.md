@@ -76,7 +76,7 @@ Aug/2017 - April/2021: Voxar Labs
   - VHDL; Arduino; IoT; MQQT; NodeRed; RTOS; Raspberry PI; Python; Neural Network.
 ### Extracurricular activities 📔
 - C for Everyone: Programming fundamentals[15 hrs] : University of California Santa Cruz (2022)
-- Introduction to Matlab Programming with Matlab[35 hr] : Valderbilt University (2022)
+- Introduction to Matlab Programming with Matlab[35 hr] : Vanderbilt University (2022)
 - SQL Essential Training[3 hrs]: LinkedIn Learning(2022)
 - Advanced C programming: Integration C and Assembly Language [1 hr] : LinkedIn Learning(2022)
 - C++ Best pratices for developers 
