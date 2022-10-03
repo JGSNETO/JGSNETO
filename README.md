@@ -14,6 +14,12 @@
  <a href="https://www.hackerrank.com/jgsnto_sd">
     <img width="60px" src="https://wikiimg.tojsiabtv.com/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="Hacker Hank" style="vertical-align:top;">
   </a>
+ <a href="https://leetcode.com/JGSNTO/">
+    <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" style="vertical-align:top;">
+  </a>
+ <a href="https://www.codewars.com/users/JGSNETO">
+    <img width="60px" src="https://user-images.githubusercontent.com/95002393/193584904-f0673311-a2bd-4e4c-9236-5ac43c395a64.png" alt="Code Wars" style="vertical-align:top;">
+  </a>
   
 </div>
 </br>
