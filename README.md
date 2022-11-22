@@ -88,6 +88,7 @@ Aug/2017 - April/2021: Voxar Labs 💻
 ### Extracurricular activities 📔
 - C for Everyone: Structured Programming[10 hrs] : University of California Santa Cruz (2022)
 - C for Everyone: Programming fundamentals[15 hrs] : University of California Santa Cruz (2022)
+- Mastering Programming with MATLAB [56 hr] : Vanderbilt University (2022)
 - Introduction to Matlab Programming with Matlab[35 hr] : Vanderbilt University (2022)
 - Simulink Onramp[2 hrs] : Mathworks (2022)
 - Convolutional Neural Networks [20 hrs] : Deeplearning.ai(2022) 
