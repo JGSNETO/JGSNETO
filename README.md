@@ -47,26 +47,26 @@ This repository will be used to share my research and projects. My main focus it
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title = "VScode"/></code>
 
 ### Professional Experience 
+Jan/22 - Current: Volvo Cars 🚗
+- SW Test Enginner(Safety Team)
+- Tools: CANoe, RobotFramework, Jenkins, VSCode, Python, Zuul Framework,ISO26262.
 
-Jan/2022 - Current: Stellantis(Outsourced through MSXI) 🚗
+Jan/2022 - Dez/22: Stellantis 🚗
 - Automotive Industry 
-- Product Engineer Analyst JR - Electrical and Electronic Systems
-- Located at Cybersecurity team
-- Full time job
-
-Aug/2022 - Current: LinkedIn 📣
-- Automotive and Software Developer content creator 
-- Talks about automotive, Embedded Systems and C/Cpp Development 
+- Product Engineer Analyst JR - Electrical and Electronic Systems (Cybersecurity Team)
+- Tools: ISO26262, ISO21434, V-Model.
 
 April/2021 - Jan/2022: Terphane 💻
 - Plastic Industry
 - SW Developer Internship 
-  
+- Tools: Python, RPA, UIPath
+
 Aug/2017 - April/2021: Voxar Labs 💻
 - Research Lab in Virtual and Augmented Reality
 - Robotic and Embedded system Research (Feb/2019-April/2021) 
 - Software Developer Intern(Aug/2020 - Dec/2020)
 - Scientific Initiation Student in Embedded Systems
+- Tools: C, C++, Python, Tensorflow
 
 ### Educational background 🎓
 - B.Sc Control and Automation Engineer at Federal University of Pernambuco [2016-2021] 
