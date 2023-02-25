@@ -27,9 +27,8 @@
 
 ## Hello, all!!
 
-I am an admirer of technology and innovation.
-I have 23 years old and current located in Betim-MG/Brazil.
-This repository will be used to share my research and projects. My main focus it is in embedded systems.
+I am an automotive engineer admirer of technology and innovation applied for the automotive indrustry.
+This repository will be used to share my research and projects. My main focus it is in stacks related with automotive industry.
 
 ### 🖥️ Tecnologies and Tools: 
 
