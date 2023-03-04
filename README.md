@@ -85,6 +85,7 @@ Aug/2017 - April/2021: Voxar Labs 💻
 - Embedded Electronics Bootcamp From Bit to Deep Learning[16,5hrs] : Udemy(2022) 
   - VHDL; Arduino; IoT; MQQT; NodeRed; RTOS; Raspberry PI; Python; Neural Network.
 ### Extracurricular activities 📔
+- C++ for C programmers: Part A[13 hrs] : University of California Santa Cruz (2023)
 - C for Everyone: Structured Programming[10 hrs] : University of California Santa Cruz (2022)
 - C for Everyone: Programming fundamentals[15 hrs] : University of California Santa Cruz (2022)
 - Mastering Programming with MATLAB [56 hr] : Vanderbilt University (2022)
