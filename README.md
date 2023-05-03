@@ -68,7 +68,7 @@ Aug/2017 - April/2021: Voxar Labs 💻
 - Tools: C, C++, Python, Tensorflow
 
 ### Educational background 🎓
-- B.Sc Control and Automation Engineer at Federal University of Pernambuco [2016-2021] 
+- B.Sc Control and Automation Engineer at Federal University of Pernambuco [2016-2022] 
 
 ### Certification and Licenses 📑
 - Scrum Fundamentals Certified(SFC) - SCRUMStudy
