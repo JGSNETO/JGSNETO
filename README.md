@@ -85,6 +85,7 @@ Aug/2017 - April/2021: Voxar Labs 💻
 - Embedded Electronics Bootcamp From Bit to Deep Learning[16,5hrs] : Udemy(2022) 
   - VHDL; Arduino; IoT; MQQT; NodeRed; RTOS; Raspberry PI; Python; Neural Network.
 ### Extracurricular activities 📔
+- CANoe for Ethernet: Vector[16 hrs] (2023) 
 - CAPL Programming in Step by Step: Udemy[10 hrs] (2023)
 - CAN Fundamentals: Vector[8 hrs] (2023)
 - AUTOSAR Classic Fundamentals: Vector[8 hrs] (2023) 
