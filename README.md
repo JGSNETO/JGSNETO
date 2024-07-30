@@ -11,8 +11,8 @@
   <a href="https://www.linkedin.com/in/jos%C3%A9-gomes-23b9a3170/">
     <img width="60px" src="https://t.ctcdn.com.br/09Y6BbLFxNn7XGCYRGzEI0p0oy8=/400x400/smart/filters:format(webp)/i490027.jpeg" alt="linkedin" style="vertical-align:top;">
   </a>
- <a href="https://www.hackerrank.com/jgsnto_sd">
-    <img width="60px" src="https://wikiimg.tojsiabtv.com/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="Hacker Hank" style="vertical-align:top;">
+  <a href="https://www.hackerrank.com/jgsnto_sd">
+      <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/600px-HackerRank_Icon-1000px.png" alt="Hacker Hank" style="vertical-align:top;">
   </a>
  <a href="https://leetcode.com/JGSNTO/">
     <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" style="vertical-align:top;">
@@ -27,8 +27,7 @@
 
 ## Hello, all!!
 
-I am an automotive engineer admirer of technology and innovation applied for the automotive indrustry.
-This repository will be used to share my research and projects. My main focus it is in stacks related with automotive industry.
+I I am an automotive engineer who works every day to push the boundaries of the industry. I am driven by challenges and the desire to create disruptive technologies applied to the automotive industry. On my GitHub, I will be sharing the knowledge I have and the projects I have developed!
 
 ### 🖥️ Tecnologies and Tools: 
 
@@ -37,11 +36,15 @@ This repository will be used to share my research and projects. My main focus it
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "Python"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" title = "Matlab"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title= "Tensorflow"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" title= "OpenCV"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title = "Linux"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" title = "Windows"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title = "Arduino"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title = "VScode"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" title = "Jupyter"/></code>
+
 
 ### Professional Experience 
 Out/23 - Current: Volvo Cars 🚗
@@ -88,7 +91,9 @@ Aug/2017 - April/2021: Voxar Labs 💻
 - Embedded Electronics Bootcamp From Bit to Deep Learning[16,5hrs] : Udemy(2022) 
   - VHDL; Arduino; IoT; MQQT; NodeRed; RTOS; Raspberry PI; Python; Neural Network.
 ### Extracurricular activities 📔
-- CANoe for Ethernet: Vector[16 hrs] (2023) 
+- ECU Tests with vTestStudion and CANoe
+- AUTOSAR Adaptive Fundamentals [10hrs] (2023)
+- CANoe for Ethernet: Vector[10 hrs] (2023) 
 - CAPL Programming in Step by Step: Udemy[10 hrs] (2023)
 - CAN Fundamentals: Vector[8 hrs] (2023)
 - AUTOSAR Classic Fundamentals: Vector[8 hrs] (2023) 
