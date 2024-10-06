@@ -94,7 +94,7 @@ Aug/2017 - April/2021: Voxar Labs 💻
 - Autonomous Cars: Deep Learning and Computer Vision in python [12,5hrs]: Udemy(2024)
 - C++ for C programmers: Part B[13 hrs] : University of California Santa Cruz (2024)
 - Introduction to Self-Driving Cars: University of Toronto [35hrs]
-- ECU Tests with vTestStudion and CANoe
+- ECU Tests with vTestStudion and CANoe: Vector [10hrs] (2023)
 - AUTOSAR Adaptive Fundamentals: Vector [10hrs] (2023)
 - CANoe for Ethernet: Vector[10 hrs] (2023) 
 - CAPL Programming in Step by Step: Udemy[10 hrs] (2023)
