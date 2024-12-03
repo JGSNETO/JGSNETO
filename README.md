@@ -51,20 +51,24 @@ Out/23 - Current: Volvo Cars 🚗
 - SW Integration Leader (Safety Team)
 - Scrum Master
 - Tools: Project Management, Zuul, CANoe, RobotFramework, Jenkins, VSCode, Python, Zuul Framework, ISO26262.
+- Location: Sweden
  
 Jan/23 - Out/23: Volvo Cars 🚗
 - SW Test Enginner(Safety Team)
 - Tools: CANoe, RobotFramework, Jenkins, VSCode, Python, Zuul Framework,ISO26262.
+- Location: Sweden
 
 Jan/2022 - Dez/22: Stellantis 🚗
 - Automotive Industry 
 - Product Engineer Analyst JR - Electrical and Electronic Systems (Cybersecurity Team)
 - Tools: ISO26262, ISO21434, V-Model.
+- Location: Brazil
 
 April/2021 - Jan/2022: Terphane 💻
 - Plastic Industry
 - SW Developer Internship 
 - Tools: Python, RPA, UIPath
+- Location: Brazil
 
 Aug/2017 - April/2021: Voxar Labs 💻
 - Research Lab in Virtual and Augmented Reality
@@ -72,6 +76,7 @@ Aug/2017 - April/2021: Voxar Labs 💻
 - Software Developer Intern(Aug/2020 - Dec/2020)
 - Scientific Initiation Student in Embedded Systems
 - Tools: C, C++, Python, Tensorflow
+- Location: Brazil
 
 ### Educational background 🎓
 - B.Sc Control and Automation Engineer at Federal University of Pernambuco [2016-2022] 
