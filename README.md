@@ -96,6 +96,11 @@ Aug/2017 - April/2021: Voxar Labs 💻
 - Embedded Electronics Bootcamp From Bit to Deep Learning[16,5hrs] : Udemy(2022) 
   - VHDL; Arduino; IoT; MQQT; NodeRed; RTOS; Raspberry PI; Python; Neural Network.
 ### Extracurricular activities 📔
+- Foundations of Projects Management [12 hrs]: Google(2025)
+- Simulink Fundamentals [16hrs]: MathWorks(2025)
+- Custom Models, Layers, and Loss Functions with TensorFlow [21 hrs]: DeepLearning.AI(2025)
+- Sequences, Time Series and Prediction [21 hrs]: DeepLearning.AI(2025)
+- Motion Planning for Self-Driving Cars [32hrs]: University of Toronto(2025)
 - Visual Perception for Self-Driving Cars [31hrs]: University of Toronto(2025)
 - State Estimation and Localization for Self-Driving Cars [26hrs]: University of Toronto(2024)
 - Motion Planning for Self-Driving Cars [32hrs]: University of Toronto(2024)
