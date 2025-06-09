@@ -47,7 +47,11 @@ I I am an automotive engineer who works every day to push the boundaries of the 
 
 
 ### Professional Experience 
-Out/23 - Current: Volvo Cars 🚗
+Jun/25 - Currently: Volvo Cars 🚗
+- Senior Release Manager & Verification Engineer
+- Tools: Project Management, Zuul, CANoe, RobotFramework, Jenkins, VSCode, Python, Zuul Framework, ISO26262.
+- Location: Sweden
+Out/23 - May/25: Volvo Cars 🚗
 - SW Integration Leader (Safety Team)
 - Scrum Master
 - Tools: Project Management, Zuul, CANoe, RobotFramework, Jenkins, VSCode, Python, Zuul Framework, ISO26262.
@@ -96,6 +100,7 @@ Aug/2017 - April/2021: Voxar Labs 💻
 - Embedded Electronics Bootcamp From Bit to Deep Learning[16,5hrs] : Udemy(2022) 
   - VHDL; Arduino; IoT; MQQT; NodeRed; RTOS; Raspberry PI; Python; Neural Network.
 ### Extracurricular activities 📔
+- Project Initiation: Starting a Successful Project [17 hrs]: Google(2025)
 - Foundations of Projects Management [12 hrs]: Google(2025)
 - Simulink Fundamentals [16hrs]: MathWorks(2025)
 - Custom Models, Layers, and Loss Functions with TensorFlow [21 hrs]: DeepLearning.AI(2025)
@@ -158,6 +163,7 @@ Aug/2017 - April/2021: Voxar Labs 💻
 
 - Portuguese : Fluent
 - English : Advanced
+- Swedish: SFI C
 
 <p align="center">
 <a href="https://github.com/JGSNETO">
