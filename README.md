@@ -100,6 +100,7 @@ Aug/2017 - April/2021: Voxar Labs 💻
 - Embedded Electronics Bootcamp From Bit to Deep Learning[16,5hrs] : Udemy(2022) 
   - VHDL; Arduino; IoT; MQQT; NodeRed; RTOS; Raspberry PI; Python; Neural Network.
 ### Extracurricular activities 📔
+- Project Planning: Putting it all together [22 hrs]: Google(2025)
 - Project Initiation: Starting a Successful Project [17 hrs]: Google(2025)
 - Foundations of Projects Management [12 hrs]: Google(2025)
 - Simulink Fundamentals [16hrs]: MathWorks(2025)
@@ -163,7 +164,7 @@ Aug/2017 - April/2021: Voxar Labs 💻
 
 - Portuguese : Fluent
 - English : Advanced
-- Swedish: SFI C
+- Swedish: SFI D
 
 <p align="center">
 <a href="https://github.com/JGSNETO">
