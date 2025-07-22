@@ -49,7 +49,7 @@ I I am an automotive engineer who works every day to push the boundaries of the 
 ### Professional Experience 
 Jun/25 - Currently: Volvo Cars 🚗
 - Senior Release Manager & Verification Engineer
-- Tools: Project Management, Zuul, CANoe, RobotFramework, Jenkins, VSCode, Python, Zuul Framework, ISO26262.
+- Tools: Project Management, Zuul, CANoe, RobotFramework, Jenkins, VSCode, Python, Zuul Framework, ISO26262, MIL, VIL, SIL, CANoe, vTestStudio, C#.
 - Location: Sweden
 Out/23 - May/25: Volvo Cars 🚗
 - SW Integration Leader (Safety Team)
