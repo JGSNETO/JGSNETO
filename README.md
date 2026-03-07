@@ -45,7 +45,6 @@ I I am an automotive engineer who works every day to push the boundaries of the 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title = "VScode"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" title = "Jupyter"/></code>
 
-
 ### Professional Experience 
 Jun/25 - Currently: Volvo Cars 🚗
 - Senior Release Manager & Verification Engineer
@@ -101,6 +100,7 @@ Aug/2017 - April/2021: Voxar Labs 💻
 - Embedded Electronics Bootcamp From Bit to Deep Learning[16,5hrs] : Udemy(2022) 
   - VHDL; Arduino; IoT; MQQT; NodeRed; RTOS; Raspberry PI; Python; Neural Network.
 ### Extracurricular activities 📔
+- Python Programming Fundamentals [24 hrs]: Microsoft(2026)
 - Project Planning: Putting it all together [22 hrs]: Google(2025)
 - Project Initiation: Starting a Successful Project [17 hrs]: Google(2025)
 - Foundations of Projects Management [12 hrs]: Google(2025)
