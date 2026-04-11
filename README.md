@@ -25,9 +25,37 @@
 </br>
 </br>
 
-## Hello, all!!
+🚗 Automotive Software Engineer @ Volvo Cars  
+🧪 Verification • Integration • Simulation • Functional Safety (ISO 26262)  
+🧠 Autonomous Driving Systems | Sensor Pipelines | Validation Infrastructure
 
-I I am an automotive engineer who works every day to push the boundaries of the industry. I am driven by challenges and the desire to create disruptive technologies applied to the automotive industry. On my GitHub, I will be sharing the knowledge I have and the projects I have developed!
+## About me
+
+I am an Automotive Software Engineer working with **safety-critical vehicle software integration and verification at Volvo Cars**, contributing to release workflows aligned with **ISO 26262 functional safety requirements**.
+
+My work focuses on building and supporting **robust validation pipelines for automotive ECUs**, combining simulation environments, automated testing frameworks, and integration tooling used in large-scale vehicle software platforms.
+
+## Current engineering focus
+
+### Automotive software validation & integration
+
+Working daily with:
+
+- ECU validation workflows
+- Release verification pipelines
+- Safety-critical integration environments
+- Robot Framework automation
+- Jenkins CI pipelines
+- Zuul-based verification infrastructure
+- CANoe and vTestStudio validation tooling
+
+Standards and methodologies:
+
+- ISO 26262 functional safety
+- V-model development lifecycle
+- Simulation-based verification strategies
+
+---
 
 ### 🖥️ Tecnologies and Tools: 
 
@@ -45,42 +73,65 @@ I I am an automotive engineer who works every day to push the boundaries of the 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title = "VScode"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" title = "Jupyter"/></code>
 
-### Professional Experience 
-Jun/25 - Currently: Volvo Cars 🚗
-- Senior Release Manager & Verification Engineer
-- Tools: Project Management, Zuul, CANoe, RobotFramework, Jenkins, VSCode, Python, Zuul Framework, ISO26262, MIL, VIL, SIL, CANoe, vTestStudio, C#.
-- Location: Sweden
-  
-Out/23 - May/25: Volvo Cars 🚗
-- SW Integration Leader (Safety Team)
-- Scrum Master
-- Tools: Project Management, Zuul, CANoe, RobotFramework, Jenkins, VSCode, Python, Zuul Framework, ISO26262.
-- Location: Sweden
- 
-Jan/23 - Out/23: Volvo Cars 🚗
-- SW Test Enginner(Safety Team)
-- Tools: CANoe, RobotFramework, Jenkins, VSCode, Python, Zuul Framework,ISO26262.
-- Location: Sweden
+## Professional experience
 
-Jan/2022 - Dez/22: Stellantis 🚗
-- Automotive Industry 
-- Product Engineer Analyst JR - Electrical and Electronic Systems (Cybersecurity Team)
-- Tools: ISO26262, ISO21434, V-Model.
-- Location: Brazil
+### Volvo Cars — Sweden
 
-April/2021 - Jan/2022: Terphane 💻
-- Plastic Industry
-- SW Developer Internship 
-- Tools: Python, RPA, UIPath
-- Location: Brazil
+**Senior Release Manager & Verification Engineer (2025–Present)**
 
-Aug/2017 - April/2021: Voxar Labs 💻
-- Research Lab in Virtual and Augmented Reality
-- Robotic and Embedded system Research (Feb/2019-April/2021) 
-- Software Developer Intern(Aug/2020 - Dec/2020)
-- Scientific Initiation Student in Embedded Systems
-- Tools: C, C++, Python, Tensorflow
-- Location: Brazil
+Working on safety-critical release validation pipelines supporting vehicle software integration and delivery readiness.
+
+Responsibilities include:
+
+- Release verification coordination
+- Integration workflow support
+- Automation pipeline usage
+- Safety-aligned validation processes
+
+**Software Integration Leader – Safety Team (2023–2025)**
+
+Led integration activities supporting safety-critical software delivery across verification environments.
+
+Worked closely with:
+
+- Verification teams
+- Release stakeholders
+- CI infrastructure
+- Safety processes aligned with ISO 26262
+
+**Software Test Engineer – Safety Team (2023)**
+
+Focused on ECU-level validation automation using CANoe and Robot Framework.
+
+---
+
+### Stellantis — Cybersecurity Engineering
+
+Worked with automotive cybersecurity and functional safety processes including:
+
+- ISO 21434
+- ISO 26262
+- V-model lifecycle integration
+- E/E system validation support
+---
+
+## Research contributions
+
+Published research in:
+
+- Embedded perception systems
+- Pose estimation pipelines
+- RGB-D sensor benchmarking
+- Robotics control systems
+- Virtual reality interaction frameworks
+
+Selected venues include:
+
+- IEEE ISMAR Adjunct  
+- SVR Symposium  
+- Brazilian Congress of Automation (CBA)  
+- Brazilian Biomedical Engineering Congress (CBEB)
+---
 
 ### Educational background 🎓
 - B.Sc Control and Automation Engineer at Federal University of Pernambuco [2016-2022] 
@@ -151,16 +202,6 @@ Aug/2017 - April/2021: Voxar Labs 💻
 - World Class Manufacturing[36hrs] : Expertise (2020)
 - Lean Six Sigma Yellow Belt[27hrs] : Expertise (2020)
 
-### Scientific Contributions 📚
-- Ginput: a tool for fast hi-fi prototyping of gestural interactions in virtual reality(2º Author) : IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct) 🥈
-- Analyzing embedded pose estimation solutions for human behaviour understanding(1º Author) : Symposium on Virtual and Augmented Reality(SVR) 🥇
-- Comparison of RGB-D sensors for 3D reconstruction(1º Author) : Symposium on Virtual and Augmented Reality(SVR) 🥇
-- An EMG-Based Virtual Reality Application for Motor Rehabilitation(2º Author) : Symposium on Virtual and Augmented Reality(SVR) 🥈
-- Analysis and Comparison of Robotics 3D Simulators(2º Author) : Symposium on Virtual and Augmented Reality(SVR) 🥈
-- Control for a Robotic Industrial Arm through a miniature (1º Author) : Congresso Brasileiro de Automática(CBA) 🥇
-- Miniature robotic arm control applied to Motor Rehabilitation (1º Author) : Congresso Brasileiro de Engenharia Biomédica(CBEB) 🥇
-- Assistive handling technology for people with reduced mobility (2º Author) : Congresso Brasileiro de Engenharia Biomédica(CBEB) 🥈
-
 ### Languages
 
 - Portuguese : Fluent
@@ -175,15 +216,3 @@ Aug/2017 - April/2021: Voxar Labs 💻
 </p>
 <!--
 **JGSNETO/JGSNETO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Stellantis
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
