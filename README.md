@@ -150,57 +150,58 @@ Selected venues include:
 ### Bootcamps 📘
 - Embedded Electronics Bootcamp From Bit to Deep Learning[16,5hrs] : Udemy(2022) 
   - VHDL; Arduino; IoT; MQQT; NodeRed; RTOS; Raspberry PI; Python; Neural Network.
-### Extracurricular activities 📔
-- Python Programming Fundamentals [24 hrs]: Microsoft(2026)
-- Project Planning: Putting it all together [22 hrs]: Google(2025)
-- Project Initiation: Starting a Successful Project [17 hrs]: Google(2025)
-- Foundations of Projects Management [12 hrs]: Google(2025)
-- Simulink Fundamentals [16hrs]: MathWorks(2025)
-- Custom Models, Layers, and Loss Functions with TensorFlow [21 hrs]: DeepLearning.AI(2025)
-- Sequences, Time Series and Prediction [21 hrs]: DeepLearning.AI(2025)
-- Motion Planning for Self-Driving Cars [32hrs]: University of Toronto(2025)
-- Visual Perception for Self-Driving Cars [31hrs]: University of Toronto(2025)
-- State Estimation and Localization for Self-Driving Cars [26hrs]: University of Toronto(2024)
-- Motion Planning for Self-Driving Cars [32hrs]: University of Toronto(2024)
-- CANoe for CAN [16 hrs]: Vector (2024)
-- Natural Language Processing in TensorFlow [23 hrs]: DeepLearning.ai(2024)
-- Autonomous Cars: Deep Learning and Computer Vision in python [12,5hrs]: Udemy(2024)
-- C++ for C programmers: Part B [13 hrs] : University of California Santa Cruz (2024)
-- Introduction to Self-Driving Cars [35hrs]: University of Toronto (2024)
-- ECU Tests with vTestStudion and CANoe: Vector [10hrs] (2023)
-- AUTOSAR Adaptive Fundamentals: Vector [10hrs] (2023)
-- CANoe for Ethernet: Vector [10 hrs] (2023) 
-- CAPL Programming in Step by Step: Udemy[10 hrs] (2023)
-- CAN Fundamentals: Vector[8 hrs] (2023)
-- AUTOSAR Classic Fundamentals: Vector[8 hrs] (2023) 
-- C++ for C programmers: Part A[13 hrs] : University of California Santa Cruz (2023)
-- C for Everyone: Structured Programming[10 hrs] : University of California Santa Cruz (2022)
-- C for Everyone: Programming fundamentals[15 hrs] : University of California Santa Cruz (2022)
-- Mastering Programming with MATLAB [56 hr] : Vanderbilt University (2022)
-- Introduction to Matlab Programming with Matlab[35 hr] : Vanderbilt University (2022)
-- Simulink Onramp[2 hrs] : Mathworks (2022)
-- Convolutional Neural Networks [20 hrs] : Deeplearning.ai(2022) 
-- Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning[20hrs] : Deeplearning.ai(2022) 
-- SQL Essential Training[3 hrs]: LinkedIn Learning(2022)
-- Advanced C programming: Integration C and Assembly Language [1 hr] : LinkedIn Learning(2022)
-- C++ Best pratices for developers : LinkedIn Learning(2022)
-- Master C++ [12 hrs] : LinkedIn Learning(2022)
-  - C++ Advanced topics, TDD, C++ Design Pattern: Creational;  Concurrent and Parallel programming 
-- Project Management with Agile & Scrum The definitive guide[15hrs] : Udemy(2022)
-- Python Basic to Advanced[63,5hrs] : Udemy(2022)
-- C++ Basic to Advanced[19,5hrs] : Udemy(2021) 
-- AWS Cloud Technical Essentials[16hrs] : Coursera (2021)
-- RPA Developer Foundation[34hrs] : UIPath Academy (2021)
-- PI System[29hrs] : OSIsoft (2021)
-- Basic Programming Comau Robots(PDL2)[20hrs] : Industry Robotic (2021)
-- Excel Basic to Advanced[11,5hrs] : Udemy
-- Introduction to Agile Scrum[3hrs] : Voitto (2020)
-- Introduction to Power BI[4hrs] : Voitto (2020)
-- Decisive Leadership[1hr] : Expertise (2020)
-- Statistical Process Control[4hrs] : Expertise (2020)
-- Introduction to Industry 4.0[2hrs] : Expertise (2020)
-- World Class Manufacturing[36hrs] : Expertise (2020)
-- Lean Six Sigma Yellow Belt[27hrs] : Expertise (2020)
+  
+### 📔 Extracurricular Activities & Certifications
+
+#### 🚗 Autonomous Driving & Automotive Systems
+
+| Course | Provider | Year |
+| :--- | :--- | :---: |
+| Motion Planning for Self-Driving Cars [32h] | University of Toronto | 2025 |
+| Visual Perception for Self-Driving Cars [31h] | University of Toronto | 2025 |
+| State Estimation and Localization for Self-Driving Cars [26h] | University of Toronto | 2024 |
+| Autonomous Cars: Deep Learning and Computer Vision [12.5h] | Udemy | 2024 |
+| Introduction to Self-Driving Cars [35h] | University of Toronto | 2024 |
+| CANoe for CAN / Ethernet [26h total] | Vector | 2023/24 |
+| ECU Tests with vTestStudio | Vector | 2023 |
+| AUTOSAR Adaptive & Classic Fundamentals | Vector | 2023 |
+| CAPL Programming Step by Step | Udemy | 2023 |
+
+#### 🤖 AI, Data Science & Control Systems
+
+| Course | Provider | Year |
+| :--- | :--- | :---: |
+| Custom Models, Layers, and Loss Functions (TensorFlow) | DeepLearning.AI | 2025 |
+| Sequences, Time Series and Prediction | DeepLearning.AI | 2025 |
+| Natural Language Processing in TensorFlow | DeepLearning.AI | 2024 |
+| Simulink Fundamentals & Onramp | MathWorks | 2022/25 |
+| Convolutional Neural Networks | DeepLearning.AI | 2022 |
+| Intro to TF for AI, ML, and Deep Learning | DeepLearning.AI | 2022 |
+| Mastering Programming with MATLAB [56h] | Vanderbilt University | 2022 |
+
+#### 💻 Software Engineering & Languages
+
+| Course | Provider | Year |
+| :--- | :--- | :---: |
+| Python Programming Fundamentals | Microsoft | 2026 |
+| Python Basic to Advanced [63.5h] | Udemy | 2022 |
+| C++ for C Programmers (Part A & B) | UC Santa Cruz | 2023/24 |
+| Master C++ (TDD, Design Patterns, Parallelism) | LinkedIn Learning | 2022 |
+| Advanced C: Integration with Assembly | LinkedIn Learning | 2022 |
+| C for Everyone: Structured Programming | UC Santa Cruz | 2022 |
+| SQL Essential Training | LinkedIn Learning | 2022 |
+| AWS Cloud Technical Essentials | Coursera | 2021 |
+
+#### 📊 Project Management & Leadership
+
+| Course | Provider | Year |
+| :--- | :--- | :---: |
+| Agile Project Management | Google | 2026 |
+| Project Planning & Execution (Specialization) | Google | 2025 |
+| Foundations of Project Management | Google | 2025 |
+| Project Management with Agile & Scrum | Udemy | 2022 |
+| Lean Six Sigma Yellow Belt | Expertise | 2020 |
+| World Class Manufacturing (WCM) | Expertise | 2020 |
 
 ### Languages
 
