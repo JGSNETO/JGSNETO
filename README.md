@@ -1,219 +1,416 @@
-<!--
-### Hi there 👋
-<img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/H2Vnn9B/photo-2021-12-23-11-04-10-removebg-preview.png">
--->
-</br>
-</br>
+<!-- ========================================================= -->
+<!--                       HEADER                              -->
+<!-- ========================================================= -->
 
-<div dsplay="inline-block">
- 
- <h1 align="left">José Gomes</h1>
-  <a href="https://www.linkedin.com/in/jos%C3%A9-gomes-23b9a3170/">
-    <img width="60px" src="https://t.ctcdn.com.br/09Y6BbLFxNn7XGCYRGzEI0p0oy8=/400x400/smart/filters:format(webp)/i490027.jpeg" alt="linkedin" style="vertical-align:top;">
-  </a>
-  <a href="https://www.hackerrank.com/jgsnto_sd">
-      <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/600px-HackerRank_Icon-1000px.png" alt="Hacker Hank" style="vertical-align:top;">
-  </a>
- <a href="https://leetcode.com/JGSNTO/">
-    <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" style="vertical-align:top;">
-  </a>
- <a href="https://www.codewars.com/users/JGSNETO">
-    <img width="60px" src="https://user-images.githubusercontent.com/95002393/193584904-f0673311-a2bd-4e4c-9236-5ac43c395a64.png" alt="Code Wars" style="vertical-align:top;">
-  </a>
-  
-</div>
-</br>
-</br>
+# José Gomes
 
-🚗 Automotive Software Engineer @ Volvo Cars  
-🧪 Verification • Integration • Simulation • Functional Safety (ISO 26262)  
-🧠 Autonomous Driving Systems | Sensor Pipelines | Validation Infrastructure
+### Automotive Software Engineer @ Volvo Cars
 
-## About me
+Building **safety-critical automotive software**, **validation frameworks**, **simulation pipelines**, and **autonomous driving projects**.
 
-I am an Automotive Software Engineer working with **safety-critical vehicle software integration and verification at Volvo Cars**, contributing to release workflows aligned with **ISO 26262 functional safety requirements**.
+🚗 Automotive Software • 🧪 Verification • 🤖 Autonomous Driving • 🧠 AI & Computer Vision
 
-My work focuses on building and supporting **robust validation pipelines for automotive ECUs**, combining simulation environments, automated testing frameworks, and integration tooling used in large-scale vehicle software platforms.
+<p align="left">
+<a href="https://www.linkedin.com/in/jos%C3%A9-gomes-23b9a3170/">
+<img width="45" src="https://t.ctcdn.com.br/09Y6BbLFxNn7XGCYRGzEI0p0oy8=/400x400/smart/filters:format(webp)/i490027.jpeg"/>
+</a>
 
-## Current engineering focus
+<a href="https://github.com/JGSNETO">
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+</a>
 
-### Automotive software validation & integration
+<a href="https://leetcode.com/JGSNTO/">
+<img width="45" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/>
+</a>
 
-Working daily with:
+<a href="https://www.hackerrank.com/jgsnto_sd">
+<img width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/600px-HackerRank_Icon-1000px.png"/>
+</a>
 
-- ECU validation workflows
-- Release verification pipelines
-- Safety-critical integration environments
+<a href="https://www.codewars.com/users/JGSNETO">
+<img width="45" src="https://user-images.githubusercontent.com/95002393/193584904-f0673311-a2bd-4e4c-9236-5ac43c395a64.png"/>
+</a>
+
+</p>
+
+---
+
+# 👋 About Me
+
+I'm an Automotive Software Engineer at **Volvo Cars**, working with **vehicle software integration**, **release validation**, and **verification of safety-critical systems**.
+
+My work focuses on building scalable validation environments combining automated testing, simulation, CI/CD pipelines, and functional safety practices for modern software-defined vehicles.
+
+### Interests
+
+- Automotive Software Engineering
+- Functional Safety (ISO 26262)
+- Autonomous Driving
+- ADAS
+- Computer Vision
+- Machine Learning
+- Embedded Systems
+- Simulation (CARLA)
+- Robotics
+
+---
+
+# 🚀 Current Engineering Focus
+
+- ECU Validation
+- Vehicle Software Integration
+- Release Verification
+- Functional Safety
+- Jenkins CI
+- Robot Framework
+- CANoe
+- vTestStudio
+- Zuul CI
+- Verification Infrastructure
+
+---
+
+# ⭐ Featured Projects
+
+## 🚗 CARLA Autonomous Driving Simulator
+
+Simulation environment for autonomous driving research featuring:
+
+- RGB Cameras
+- Depth Cameras
+- LiDAR
+- Logitech G29 Integration
+- OpenCV
+- Python
+- Sensor Fusion
+
+> Repository: *(coming soon)*
+
+---
+
+## 🚦 Autonomous Emergency Braking
+
+ADAS project implementing perception and collision avoidance algorithms inside CARLA.
+
+**Technologies**
+
+- Python
+- OpenCV
+- TensorFlow
+- CARLA
+
+---
+
+## 🛣️ Lane Detection Pipeline
+
+Computer Vision project focused on robust lane detection using classical vision techniques and deep learning.
+
+---
+
+## 🤖 Automotive Validation Automation
+
+Automation framework for ECU validation using:
+
+- Robot Framework
+- Python
+- CANoe
+- CAPL
+
+---
+
+# 💻 Tech Stack
+
+## Languages
+
+<p>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
+</p>
+
+## AI & Computer Vision
+
+<p>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"/>
+</p>
+
+## Development
+
+<p>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
+</p>
+
+## Automotive
+
+- CANoe
+- CAPL
+- vTestStudio
+- AUTOSAR
+- Robot Framework
+- Jenkins
+- Zuul
+- ISO 26262
+- ISO 21434
+
+---
+
+# 💼 Professional Experience
+
+## Volvo Cars (2023–Present)
+
+### Senior Release Manager & Verification Engineer
+
+Working on validation and release readiness for safety-critical automotive software.
+
+Main areas:
+
+- Vehicle Software Integration
+- ECU Validation
+- Release Verification
+- CI/CD Infrastructure
+- Functional Safety
+
+### Software Integration Leader
+
+- Safety-critical software integration
+- Verification coordination
+- Release workflows
+- Cross-functional collaboration
+
+### Software Test Engineer
+
+- ECU testing
 - Robot Framework automation
-- Jenkins CI pipelines
-- Zuul-based verification infrastructure
-- CANoe and vTestStudio validation tooling
-
-Standards and methodologies:
-
-- ISO 26262 functional safety
-- V-model development lifecycle
-- Simulation-based verification strategies
+- CANoe validation
 
 ---
 
-### 🖥️ Tecnologies and Tools: 
+## Stellantis
 
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title = "C"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title = "C++"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "Python"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" title = "Matlab"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title= "Tensorflow"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" title= "OpenCV"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title = "Linux"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" title = "Windows"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title = "Arduino"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title = "VScode"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" title = "Jupyter"/></code>
+### Cybersecurity Engineering
 
-## Professional experience
-
-### Volvo Cars — Sweden
-
-**Senior Release Manager & Verification Engineer (2025–Present)**
-
-Working on safety-critical release validation pipelines supporting vehicle software integration and delivery readiness.
-
-Responsibilities include:
-
-- Release verification coordination
-- Integration workflow support
-- Automation pipeline usage
-- Safety-aligned validation processes
-
-**Software Integration Leader – Safety Team (2023–2025)**
-
-Led integration activities supporting safety-critical software delivery across verification environments.
-
-Worked closely with:
-
-- Verification teams
-- Release stakeholders
-- CI infrastructure
-- Safety processes aligned with ISO 26262
-
-**Software Test Engineer – Safety Team (2023)**
-
-Focused on ECU-level validation automation using CANoe and Robot Framework.
-
----
-
-### Stellantis — Cybersecurity Engineering
-
-Worked with automotive cybersecurity and functional safety processes including:
+Worked with automotive cybersecurity and functional safety including:
 
 - ISO 21434
 - ISO 26262
-- V-model lifecycle integration
-- E/E system validation support
+- V-Model
+- E/E Systems
+
 ---
 
-## Research contributions
+# 📚 Publications
 
 Published research in:
 
-- Embedded perception systems
-- Pose estimation pipelines
-- RGB-D sensor benchmarking
-- Robotics control systems
-- Virtual reality interaction frameworks
+- Embedded Vision
+- Pose Estimation
+- RGB-D Benchmarking
+- Robotics
+- Virtual Reality
 
-Selected venues include:
+Presented at:
 
-- IEEE ISMAR Adjunct  
-- SVR Symposium  
-- Brazilian Congress of Automation (CBA)  
+- IEEE ISMAR
+- SVR Symposium
+- Brazilian Congress of Automation (CBA)
 - Brazilian Biomedical Engineering Congress (CBEB)
+
 ---
 
-### Educational background 🎓
-- B.Sc Control and Automation Engineer at Federal University of Pernambuco [2016-2022] 
+# 🎓 Education
 
-### Certification and Licenses 📑
-- Scrum Fundamentals Certified(SFC) - SCRUMStudy
-- Six Sigma Yellow Belt - 6SigmaStudy
-- Python competency badge - LinkedIn
-- C++ competency badge - LinkedIn
-- C competency badge - LinkedIn
-- C++ golden badge - HackerRank
-- C golden badge - HackerRank
-- OOP competency badge - LinkedIn
-- Agile Methodologies - LinkedIn
+**B.Sc. Control and Automation Engineering**
 
-### Bootcamps 📘
-- Embedded Electronics Bootcamp From Bit to Deep Learning[16,5hrs] : Udemy(2022) 
-  - VHDL; Arduino; IoT; MQQT; NodeRed; RTOS; Raspberry PI; Python; Neural Network.
-  
-### 📔 Extracurricular Activities & Certifications
+Federal University of Pernambuco
 
-#### 🚗 Autonomous Driving & Automotive Systems
+2016 – 2022
 
-| Course | Provider | Year |
-| :--- | :--- | :---: |
-| Motion Planning for Self-Driving Cars [32h] | University of Toronto | 2025 |
-| Visual Perception for Self-Driving Cars [31h] | University of Toronto | 2025 |
-| State Estimation and Localization for Self-Driving Cars [26h] | University of Toronto | 2024 |
-| Autonomous Cars: Deep Learning and Computer Vision [12.5h] | Udemy | 2024 |
-| Introduction to Self-Driving Cars [35h] | University of Toronto | 2024 |
-| CANoe for CAN / Ethernet [26h total] | Vector | 2023/24 |
-| ECU Tests with vTestStudio | Vector | 2023 |
-| AUTOSAR Adaptive & Classic Fundamentals | Vector | 2023 |
-| CAPL Programming Step by Step | Udemy | 2023 |
+---
 
-#### 🤖 AI, Data Science & Control Systems
+# 📜 Certifications & Professional Development
 
-| Course | Provider | Year |
-| :--- | :--- | :---: |
-| Custom Models, Layers, and Loss Functions (TensorFlow) | DeepLearning.AI | 2025 |
-| Sequences, Time Series and Prediction | DeepLearning.AI | 2025 |
-| Natural Language Processing in TensorFlow | DeepLearning.AI | 2024 |
-| Simulink Fundamentals & Onramp | MathWorks | 2022/25 |
-| Convolutional Neural Networks | DeepLearning.AI | 2022 |
-| Intro to TF for AI, ML, and Deep Learning | DeepLearning.AI | 2022 |
-| Mastering Programming with MATLAB [56h] | Vanderbilt University | 2022 |
+<details>
+<summary><strong>🚗 Autonomous Driving & Automotive Systems</strong></summary>
 
-#### 💻 Software Engineering & Languages
+### University of Toronto (Self-Driving Cars Specialization)
 
-| Course | Provider | Year |
-| :--- | :--- | :---: |
-| Python Programming Fundamentals | Microsoft | 2026 |
-| Python Basic to Advanced [63.5h] | Udemy | 2022 |
-| C++ for C Programmers (Part A & B) | UC Santa Cruz | 2023/24 |
-| Master C++ (TDD, Design Patterns, Parallelism) | LinkedIn Learning | 2022 |
-| Advanced C: Integration with Assembly | LinkedIn Learning | 2022 |
-| C for Everyone: Structured Programming | UC Santa Cruz | 2022 |
-| SQL Essential Training | LinkedIn Learning | 2022 |
-| AWS Cloud Technical Essentials | Coursera | 2021 |
+- Introduction to Self-Driving Cars (35h) — 2024
+- State Estimation and Localization for Self-Driving Cars (26h) — 2024
+- Visual Perception for Self-Driving Cars (31h) — 2025
+- Motion Planning for Self-Driving Cars (32h) — 2025
 
-#### 📊 Project Management & Leadership
+### Automotive & Embedded Systems
 
-| Course | Provider | Year |
-| :--- | :--- | :---: |
-| Agile Project Management | Google | 2026 |
-| Project Planning & Execution (Specialization) | Google | 2025 |
-| Foundations of Project Management | Google | 2025 |
-| Project Management with Agile & Scrum | Udemy | 2022 |
-| Lean Six Sigma Yellow Belt | Expertise | 2020 |
-| World Class Manufacturing (WCM) | Expertise | 2020 |
+- Autonomous Cars: Deep Learning and Computer Vision (Udemy, 12.5h) — 2024
+- AUTOSAR Adaptive & Classic Fundamentals (Vector) — 2023
+- CANoe for CAN / Ethernet (Vector, 26h) — 2023–2024
+- ECU Tests with vTestStudio (Vector) — 2023
+- CAPL Programming Step by Step (Udemy) — 2023
 
-### Languages
+</details>
 
-- Portuguese : Fluent
-- English : Advanced
-- Swedish: SFI D
+---
+
+<details>
+<summary><strong>🤖 Artificial Intelligence, Machine Learning & Computer Vision</strong></summary>
+
+### DeepLearning.AI
+
+- Introduction to TensorFlow for AI, ML and Deep Learning — 2022
+- Convolutional Neural Networks — 2022
+- Natural Language Processing in TensorFlow — 2024
+- Sequences, Time Series and Prediction — 2025
+- Custom Models, Layers and Loss Functions with TensorFlow — 2025
+
+### Computer Vision
+
+- Autonomous Cars: Deep Learning and Computer Vision (Udemy)
+
+</details>
+
+---
+
+<details>
+<summary><strong>💻 Software Engineering & Programming</strong></summary>
+
+### Python
+
+- Python Programming Fundamentals (Microsoft) — 2026
+- Python Basic to Advanced (Udemy, 63.5h) — 2022
+
+### C / C++
+
+- C for Everyone: Structured Programming (UC Santa Cruz) — 2022
+- C++ for C Programmers (UC Santa Cruz) — 2023–2024
+- Master C++: TDD, Design Patterns & Parallelism (LinkedIn Learning) — 2022
+- Advanced C: Integration with Assembly (LinkedIn Learning) — 2022
+
+### Other
+
+- SQL Essential Training (LinkedIn Learning) — 2022
+- AWS Cloud Technical Essentials (Coursera) — 2021
+
+</details>
+
+---
+
+<details>
+<summary><strong>📐 Control Systems & Engineering Tools</strong></summary>
+
+- Mastering Programming with MATLAB (Vanderbilt University, 56h) — 2022
+- Simulink Onramp (MathWorks) — 2022
+- Simulink Fundamentals (MathWorks) — 2025
+
+</details>
+
+---
+
+<details>
+<summary><strong>📊 Project Management, Agile & Leadership</strong></summary>
+
+### Google Project Management
+
+- Foundations of Project Management — 2025
+- Project Planning & Execution — 2025
+- Agile Project Management — 2026
+
+### Agile
+
+- Scrum Fundamentals Certified (SCRUMStudy)
+- Project Management with Agile & Scrum (Udemy)
+
+### Lean
+
+- Lean Six Sigma Yellow Belt
+- World Class Manufacturing (WCM)
+
+</details>
+
+---
+
+<details>
+<summary><strong>🏅 Professional Badges & Competencies</strong></summary>
+
+### LinkedIn Skill Assessments
+
+- Python
+- C++
+- C
+- Object-Oriented Programming (OOP)
+- Agile Methodologies
+
+### HackerRank
+
+- C Gold Badge
+- C++ Gold Badge
+
+</details>
+
+---
+
+<details>
+<summary><strong>📖 Bootcamps</strong></summary>
+
+### Embedded Electronics Bootcamp (Udemy, 16.5h)
+
+Topics covered:
+
+- VHDL
+- Arduino
+- Raspberry Pi
+- RTOS
+- MQTT
+- Node-RED
+- Python
+- Neural Networks
+- IoT
+
+</details>
+
+---
+
+# 🌱 Currently Learning
+
+- ROS2
+- SLAM
+- Motion Planning
+- Reinforcement Learning
+- CUDA Programming
+
+---
+
+# 🌍 Languages
+
+- 🇧🇷 Portuguese — Native
+- 🇬🇧 English — Professional
+- 🇸🇪 Swedish — SFI D
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-<a href="https://github.com/JGSNETO">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JGSNETO&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JGSNETO&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JGSNETO&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JGSNETO&layout=compact&langs_count=8&theme=algolia"/>
+
 </p>
-<!--
-**JGSNETO/JGSNETO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+---
+
+# 🤝 Let's Connect
+
+- 💼 LinkedIn
+- 💻 GitHub
+- 🧠 LeetCode
+- 🏆 HackerRank
+
+Thanks for visiting my profile!
