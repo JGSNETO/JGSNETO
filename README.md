@@ -268,6 +268,8 @@ Federal University of Pernambuco
 - Natural Language Processing in TensorFlow — 2024
 - Sequences, Time Series and Prediction — 2025
 - Custom Models, Layers and Loss Functions with TensorFlow — 2025
+- Custom and Distributed Training with TensorFlow - 2025
+- Advanced computer vision with TensorFlow - 2025
 
 ### Computer Vision
 
