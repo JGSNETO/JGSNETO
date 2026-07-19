@@ -4,7 +4,7 @@
 
 # José Gomes
 
-### Automotive Software Engineer @ Volvo Cars
+### Senior Release Manager @ Volvo Cars
 
 Building **safety-critical automotive software**, **validation frameworks**, **simulation pipelines**, and **autonomous driving projects**.
 
@@ -37,7 +37,7 @@ Building **safety-critical automotive software**, **validation frameworks**, **s
 
 # 👋 About Me
 
-I'm an Automotive Software Engineer at **Volvo Cars**, working with **vehicle software integration**, **release validation**, and **verification of safety-critical systems**.
+I'm an Automotive Engineer at **Volvo Cars**, working with **vehicle software integration**, **release validation**, and **verification of safety-critical systems**.
 
 My work focuses on building scalable validation environments combining automated testing, simulation, CI/CD pipelines, and functional safety practices for modern software-defined vehicles.
 
@@ -61,7 +61,7 @@ My work focuses on building scalable validation environments combining automated
 - Vehicle Software Integration
 - Release Verification
 - Functional Safety
-- Jenkins CI
+- CI/CD
 - Robot Framework
 - CANoe
 - vTestStudio
@@ -70,7 +70,7 @@ My work focuses on building scalable validation environments combining automated
 
 ---
 
-# ⭐ Featured Projects
+<!--# ⭐ Featured Projects
 
 ## 🚗 CARLA Autonomous Driving Simulator
 
@@ -116,7 +116,8 @@ Automation framework for ECU validation using:
 - CANoe
 - CAPL
 
----
+--- 
+-->
 
 # 💻 Tech Stack
 
