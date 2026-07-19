@@ -234,70 +234,171 @@ Federal University of Pernambuco
 
 ---
 
-# 📜 Certifications & Professional Development
+### 📜 Courses & Certifications
 
 <details>
-<summary><strong>🚗 Autonomous Driving & Automotive Systems</strong></summary>
+<summary><b>🤖 Artificial Intelligence & Deep Learning (10)</b></summary>
 
-### University of Toronto (Self-Driving Cars Specialization)
-
-- Introduction to Self-Driving Cars (35h) — 2024
-- State Estimation and Localization for Self-Driving Cars (26h) — 2024
-- Visual Perception for Self-Driving Cars (31h) — 2025
-- Motion Planning for Self-Driving Cars (32h) — 2025
-
-### Automotive & Embedded Systems
-
-- Autonomous Cars: Deep Learning and Computer Vision (Udemy, 12.5h) — 2024
-- AUTOSAR Adaptive & Classic Fundamentals (Vector) — 2023
-- CANoe for CAN / Ethernet (Vector, 26h) — 2023–2024
-- ECU Tests with vTestStudio (Vector) — 2023
-- CAPL Programming Step by Step (Udemy) — 2023
+| Course | Issuer | Completion |
+|--------|--------|------------|
+| Advanced Computer Vision with TensorFlow | DeepLearning.AI | Aug 2025 |
+| Custom and Distributed Training with TensorFlow | DeepLearning.AI | Mar 2025 |
+| Custom Models, Layers, and Loss Functions with TensorFlow | DeepLearning.AI | Feb 2025 |
+| Sequences, Time Series and Prediction | DeepLearning.AI | Jan 2025 |
+| Natural Language Processing in TensorFlow | DeepLearning.AI | Oct 2024 |
+| Convolutional Neural Networks in TensorFlow | DeepLearning.AI | Jun 2022 |
+| Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning | DeepLearning.AI | Jun 2022 |
+| Python Programming Fundamentals | Microsoft | Mar 2026 |
+| Autonomous Cars: Deep Learning and Computer Vision in Python | Udemy | Sep 2024 |
+| Embedded Electronics Bootcamp: From Bit to Deep Learning | Udemy | Jul 2022 |
 
 </details>
 
 ---
 
 <details>
-<summary><strong>🤖 Artificial Intelligence, Machine Learning & Computer Vision</strong></summary>
+<summary><b>🚗 Autonomous Driving & ADAS (4)</b></summary>
 
-### DeepLearning.AI
-
-- Introduction to TensorFlow for AI, ML and Deep Learning — 2022
-- Convolutional Neural Networks — 2022
-- Natural Language Processing in TensorFlow — 2024
-- Sequences, Time Series and Prediction — 2025
-- Custom Models, Layers and Loss Functions with TensorFlow — 2025
-- Custom and Distributed Training with TensorFlow - 2025
-- Advanced computer vision with TensorFlow - 2025
-
-### Computer Vision
-
-- Autonomous Cars: Deep Learning and Computer Vision (Udemy)
+| Course | Issuer | Completion |
+|--------|--------|------------|
+| Introduction to Self-Driving Cars | University of Toronto | Aug 2024 |
+| State Estimation and Localization for Self-Driving Cars | University of Toronto | Oct 2024 |
+| Visual Perception for Self-Driving Cars | University of Toronto | Dec 2024 |
+| Motion Planning for Self-Driving Cars | University of Toronto | Dec 2024 |
 
 </details>
 
 ---
 
 <details>
-<summary><strong>💻 Software Engineering & Programming</strong></summary>
+<summary><b>🚘 Automotive Software, AUTOSAR & Vector (6)</b></summary>
 
-### Python
+| Course | Issuer | Completion |
+|--------|--------|------------|
+| AUTOSAR Classic Fundamentals | VECTOR Informatik | Mar 2023 |
+| CAN Fundamentals | VECTOR Informatik | May 2023 |
+| CANoe for Ethernet | VECTOR Informatik | Jun 2023 |
+| AUTOSAR Adaptive Fundamentals | VECTOR Informatik | Oct 2023 |
+| ECU Tests with vTESTstudio and CANoe | VECTOR Informatik | Nov 2023 |
+| CANoe for CAN | VECTOR Informatik | Nov 2024 |
 
-- Python Programming Fundamentals (Microsoft) — 2026
-- Python Basic to Advanced (Udemy, 63.5h) — 2022
+</details>
 
-### C / C++
+---
 
-- C for Everyone: Structured Programming (UC Santa Cruz) — 2022
-- C++ for C Programmers (UC Santa Cruz) — 2023–2024
-- Master C++: TDD, Design Patterns & Parallelism (LinkedIn Learning) — 2022
-- Advanced C: Integration with Assembly (LinkedIn Learning) — 2022
+<details>
+<summary><b>💻 Programming (15)</b></summary>
 
-### Other
+| Course | Issuer | Completion |
+|--------|--------|------------|
+| C++ For C Programmers, Part B | University of California, Santa Cruz | Sep 2024 |
+| C++ for C Programmers, Part A | University of California, Santa Cruz | Mar 2023 |
+| C for Everyone: Programming Fundamentals | University of California, Santa Cruz | Sep 2022 |
+| C for Everyone: Structured Programming | University of California, Santa Cruz | Oct 2022 |
+| C Programming for Embedded Applications | LinkedIn | Jul 2022 |
+| Advanced C Programming: Integrating C and Assembly Language | LinkedIn | Jul 2022 |
+| C++: Advanced Topics | LinkedIn | Jul 2022 |
+| C++ Design Patterns: Creational | LinkedIn | Jul 2022 |
+| C++ Best Practices for Developers | LinkedIn | Jul 2022 |
+| Test-Driven Development in C++ | LinkedIn | Jul 2022 |
+| Master C++ | LinkedIn | Jul 2022 |
+| Parallel and Concurrent Programming with C++ Part 1 | LinkedIn | Jul 2022 |
+| Parallel and Concurrent Programming with C++ Part 2 | LinkedIn | Jul 2022 |
+| C++ Basic to Advanced | Udemy | Dec 2021 |
+| Python Basic to Advanced | Udemy | Nov 2021 |
 
-- SQL Essential Training (LinkedIn Learning) — 2022
-- AWS Cloud Technical Essentials (Coursera) — 2021
+</details>
+
+---
+
+<details>
+<summary><b>📊 Project Management & Agile (8)</b></summary>
+
+| Course | Issuer | Completion |
+|--------|--------|------------|
+| Agile Project Management | Google | Apr 2026 |
+| Project Execution: Running the Project | Google | Sep 2025 |
+| Project Planning: Putting It All Together | Google | Jul 2025 |
+| Project Initiation: Starting a Successful Project | Google | May 2025 |
+| Foundations of Project Management | Google | Apr 2025 |
+| Project Management with Agile & Scrum | Udemy | Feb 2022 |
+| Scrum Fundamentals Certified | VMEdu | Feb 2022 |
+| Introduction to Agile Scrum | Grupo Voitto | Jun 2020 |
+
+</details>
+
+---
+
+<details>
+<summary><b>📈 Data Science & Analytics (4)</b></summary>
+
+| Course | Issuer | Completion |
+|--------|--------|------------|
+| Simulink Fundamentals | MathWorks | Apr 2025 |
+| Simulink Onramp | MathWorks | Oct 2022 |
+| Introduction to Power BI | Grupo Voitto | Jun 2020 |
+| SQL Essential Training | LinkedIn Learning | Aug 2022 |
+
+</details>
+
+---
+
+<details>
+<summary><b>⚙️ MATLAB & Simulation (2)</b></summary>
+
+| Course | Issuer | Completion |
+|--------|--------|------------|
+| Introduction to Programming with MATLAB | Vanderbilt University | Sep 2022 |
+| Mastering Programming with MATLAB | Vanderbilt University | Nov 2022 |
+
+</details>
+
+---
+
+<details>
+<summary><b>🛡️ Cybersecurity & Cloud (4)</b></summary>
+
+| Course | Issuer | Completion |
+|--------|--------|------------|
+| The Foundations of Cybersecurity | Kennesaw State University | Jul 2022 |
+| Usable Security | University of Maryland | Jul 2022 |
+| AWS Cloud Technical Essentials | Amazon Web Services | Nov 2021 |
+| RPA Developer Foundation | UiPath Academic Alliance | Oct 2021 |
+
+</details>
+
+---
+
+<details>
+<summary><b>🏭 Industrial Automation & Manufacturing (11)</b></summary>
+
+| Course | Issuer | Completion |
+|--------|--------|------------|
+| Basic Programming Comau Robots | Robótica Industrial | Jan 2021 |
+| World Class Manufacturing | Expertise Qualificação e Consultoria | Feb 2020 |
+| Introduction to Industry 4.0 | Expertise Qualificação e Consultoria | Mar 2020 |
+| Statistical Process Control | Expertise Qualificação e Consultoria | Apr 2020 |
+| Decisive Leadership | Expertise Qualificação e Consultoria | Apr 2020 |
+| Lean Six Sigma Yellow Belt | Expertise Qualificação e Consultoria | 2020 |
+| Six Sigma Green Belt | LinkedIn Learning | Feb 2021 |
+| Six Sigma Yellow Belt Certified | VMEdu | Mar 2022 |
+| PI System Basics | OSIsoft | Jul 2021 |
+| Introduction to Developing with the PI System | OSIsoft | Jul 2021 |
+| Asset Framework: Basic | OSIsoft | Aug 2021 |
+| Configuring Analytics with PI AF | OSIsoft | Aug 2021 |
+| PI System - Implementation and Adoption | OSIsoft | Sep 2021 |
+
+</details>
+
+---
+
+<details>
+<summary><b>📚 Other Professional Development (2)</b></summary>
+
+| Course | Issuer | Completion |
+|--------|--------|------------|
+| Excel Basic to Advanced | Udemy | Jul 2020 |
+| FÁBRICASIM - Industrial Plant Simulator | Mekatronik | — |
 
 </details>
 
