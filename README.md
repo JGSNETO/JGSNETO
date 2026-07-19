@@ -405,7 +405,7 @@ Federal University of Pernambuco
 ---
 
 <details>
-<summary><strong>📐 Control Systems & Engineering Tools</strong></summary>
+<summary><strong>📐 Control Systems & Engineering Tools (3)</strong></summary>
 
 - Mastering Programming with MATLAB (Vanderbilt University, 56h) — 2022
 - Simulink Onramp (MathWorks) — 2022
@@ -416,7 +416,7 @@ Federal University of Pernambuco
 ---
 
 <details>
-<summary><strong>📊 Project Management, Agile & Leadership</strong></summary>
+<summary><strong>📊 Project Management, Agile & Leadership (7)</strong></summary>
 
 ### Google Project Management
 
