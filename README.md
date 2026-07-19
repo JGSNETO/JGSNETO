@@ -206,22 +206,83 @@ Worked with automotive cybersecurity and functional safety including:
 
 ---
 
-# 📚 Publications
+## 📚 Publications
 
-Published research in:
+<details>
+<summary><b>2020 (5 Publications)</b></summary>
 
-- Embedded Vision
-- Pose Estimation
-- RGB-D Benchmarking
-- Robotics
-- Virtual Reality
+### 🎮 Ginput: A Tool for Fast Hi-Fi Prototyping of Gestural Interactions in Virtual Reality
+**IEEE International Symposium on Mixed and Augmented Reality (ISMAR Adjunct)** • **2020**
 
-Presented at:
+- Developed a high-level Domain-Specific Language (DSL) for rapid prototyping of VR gesture interactions.
+- **Author:** Co-author
 
-- IEEE ISMAR
-- SVR Symposium
-- Brazilian Congress of Automation (CBA)
-- Brazilian Biomedical Engineering Congress (CBEB)
+---
+
+### 🧍 Analyzing Embedded Pose Estimation Solutions for Human Behaviour Understanding
+**Symposium on Virtual and Augmented Reality (SVR)** • **2020**
+
+- **First Author**
+- Evaluated embedded AI solutions for real-time human pose estimation on NVIDIA Jetson Nano using RGB images.
+- Compared TensorRT Pose Estimation, HyperPose and tf-pose-estimation for edge deployment.
+
+---
+
+### 📷 Comparison of RGB-D Sensors for 3D Reconstruction
+**Symposium on Virtual and Augmented Reality (SVR)** • **2020**
+
+- **First Author**
+- Compared 10 RGB-D sensors for 3D reconstruction.
+- Developed a customized RTAB-Map implementation supporting multiple RGB-D devices and published a 20GB benchmark dataset.
+
+---
+
+### 🤖 An EMG-Based Virtual Reality Application for Motor Rehabilitation
+**Symposium on Virtual and Augmented Reality (SVR)**
+
+- **Second Author**
+- Developed a VR-based rehabilitation platform using EMG signals to improve motor therapy engagement.
+- Experimental results demonstrated statistically significant improvements over conventional therapy.
+
+---
+
+### 🦾 Analysis and Comparison of Robotics 3D Simulators
+**Symposium on Virtual and Augmented Reality (SVR)**
+
+- **Second Author**
+- Comparative evaluation of Gazebo, V-REP (CoppeliaSim) and Unity for robotics simulation.
+- Analyzed usability, ROS integration and suitability for robotics development.
+
+</details>
+
+---
+
+<details>
+<summary><b>Brazilian Conference Publications (3)</b></summary>
+
+### 🏭 Industrial Robotic Arm Control through a Miniature Interface
+**XXII Congresso Brasileiro de Automática (CBA)**
+
+- **First Author**
+- Designed a hardware/software solution for intuitive control of a COMAU industrial robotic arm using Arduino and TCP/IP communication.
+
+---
+
+### 🩺 Miniature Robotic Arm Control Applied to Motor Rehabilitation
+**XXVI Congresso Brasileiro de Engenharia Biomédica (CBEB)**
+
+- **First Author**
+- Developed a low-cost robotic rehabilitation platform enabling therapists to automate and remotely reproduce physiotherapy exercises.
+
+---
+
+### ♿ Assistive Manipulation Technology for People with Reduced Mobility
+**XXVI Congresso Brasileiro de Engenharia Biomédica (CBEB)**
+
+- **Author**
+- Proposed an assistive robotic manipulation system to improve autonomy and quality of life for people with reduced mobility.
+
+</details>
 
 ---
 
