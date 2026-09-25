@@ -309,6 +309,7 @@ Federal University of Pernambuco
 | State Estimation and Localization for Self-Driving Cars | University of Toronto | Oct 2024   |
 | Visual Perception for Self-Driving Cars                 | University of Toronto | Dec 2024   |
 | Motion Planning for Self-Driving Cars                   | University of Toronto | Dec 2024   |
+| Self-Driving Car Specialization Course                  | Packt                 | Set 2026   |
 
 </details>
 
