@@ -301,7 +301,7 @@ Federal University of Pernambuco
 </details>
 
 <details>
-<summary><b>🚗 Autonomous Driving & ADAS (4)</b></summary>
+<summary><b>🚗 Autonomous Driving & ADAS (5)</b></summary>
 
 | Course                                                  | Issuer                | Completion |
 | ------------------------------------------------------- | --------------------- | ---------- |
