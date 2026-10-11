@@ -21,18 +21,6 @@ Building **safety-critical automotive software**, **validation frameworks**, **s
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 </a>
 
-<a href="https://leetcode.com/JGSNTO/">
-<img width="45" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/>
-</a>
-
-<a href="https://www.hackerrank.com/jgsnto_sd">
-<img width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/600px-HackerRank_Icon-1000px.png"/>
-</a>
-
-<a href="https://www.codewars.com/users/JGSNETO">
-<img width="45" src="https://user-images.githubusercontent.com/95002393/193584904-f0673311-a2bd-4e4c-9236-5ac43c395a64.png"/>
-</a>
-
 </p>
 
 ---
