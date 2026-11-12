@@ -286,6 +286,7 @@ Federal University of Pernambuco
 
 | Course | Issuer | Completion | Specialization / Program |
 |---|---|---|---|
+| Supervised Machine Learning: Regression and Classification | DeepLearning.AI | Nov 2026 | Machine Learning Specialization |
 | Advanced Computer Vision with TensorFlow | DeepLearning.AI | Aug 2025 | TensorFlow: Advanced Techniques |
 | Custom and Distributed Training with TensorFlow | DeepLearning.AI | Mar 2025 | TensorFlow: Advanced Techniques |
 | Custom Models, Layers, and Loss Functions with TensorFlow | DeepLearning.AI | Feb 2025 | TensorFlow: Advanced Techniques |
